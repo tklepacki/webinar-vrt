@@ -14,7 +14,6 @@ export default defineConfig({
     connectOptions: {
       wsEndpoint: "ws://localhost:9292/pw",
     },
-
   },
   projects: [
     {
