@@ -1,21 +1,7 @@
-# AutomationSTAR 2025 - Workshop | Visual Regression Testing: A Practical Guide
-
-**Dear Participant**,
-
-I’m glad you chose my workshop :)
-
-To verify the environment we’ll be working on during the workshop, please make sure you meet the tool requirements (*Requirements*).
-
-## Useful Links
-
-- Notes: https://docs.google.com/document/d/1PDAyY01PzlNctn_UJKa21fX4ZkNREKPuMXjP9nm3Zaw/edit?tab=t.0
-- Exercises and Solutions: https://drive.google.com/drive/folders/1zL_WivMuV6jvx-OnbMwdWW82m-xaadXb?usp=sharing
+# Webinar: Z milosci do jakosci 2025 - Praktyczne testowanie regresji wizualnej w oparciu o Playwright i VRT
   
 ## Requirements
-
 ### Tools
-
-Bring a laptop to the workshop – preferably with Windows. Make sure your laptop is not restricted by any limitations, such as lack of permissions to install tools, or network access restrictions (VPN), etc.
 
 Please install:
 
@@ -35,8 +21,7 @@ Please install:
 
 ### Git:
 
-- Fork the repository: https://github.com/tklepacki/automationstar-vrt to your private GitHub account. If you don’t have a GitHub account, create one beforehand.
-- Clone the forked repository (from your private account) `git clone https://github.com/tklepacki/automationstar-vrt.git`
+- Clone the repository: `git clone https://github.com/tklepacki/webinar-vrt.git`
 - Enter the repository folder and make sure the project has been downloaded.
 
 ### IDE
@@ -56,3 +41,4 @@ Please install:
 ## In case of issues
 
 If you have any questions or problems with following the instructions, please email me at: *t.klepacki@wp.pl*
+
