@@ -11,10 +11,6 @@ export default defineConfig({
   use: {
     trace: 'on-first-retry',
     baseURL: 'https://unstable.dev.signalocean.com',
-    connectOptions: {
-      wsEndpoint: "ws://localhost:9292/pw",
-    },
-
   },
   projects: [
     {
@@ -23,3 +19,4 @@ export default defineConfig({
     },
   ],
 });
+
