@@ -14,10 +14,13 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@playwright/test": "^1.58.0",
     "@types/mochawesome": "^6.2.4",
     "@types/node": "^24.0.13",
-    "@playwright/test": "^1.58.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@visual-regression-tracker/agent-playwright": "^5.3.1"
   }
 }
